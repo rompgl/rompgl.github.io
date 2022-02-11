@@ -3,9 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c9d95e4186fa54575579ddb5b3e9d44a",
+  "assets/AssetManifest.json": "a20bcc4aaca028ca5977699e1823852a",
 "assets/assets/blockchain.png": "7e1d601b68c37c7631ef0632c500dd83",
 "assets/assets/certified.png": "e90a4d3f66c8c75a4196fa951ff68405",
+"assets/assets/Certinity.png": "2f48cb64f18bd8e3ad840059270ac190",
 "assets/assets/diploma.png": "53e794ce79bdf60502c8e8e800b249b0",
 "assets/assets/education.png": "3b3c1347f6389284110711ae769c1b19",
 "assets/assets/favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -20,9 +21,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "1b8048d35cb442848aad63890b133d0e",
-"/": "1b8048d35cb442848aad63890b133d0e",
-"main.dart.js": "1954dc859b8e3d0a1b612baf3c4e1668",
+"index.html": "530d2aeab1462282a5e4234737fa4905",
+"/": "530d2aeab1462282a5e4234737fa4905",
+"main.dart.js": "99f0d4c68200c8532f12b9e000f725e0",
 "manifest.json": "b604130f1686bbfc4b038dd0cb125e99",
 "version.json": "bc1108b615bace01562a65ca09b5758b"
 };
