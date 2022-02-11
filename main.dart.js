@@ -34948,7 +34948,7 @@ r.sdd(0,!U.d7(s))}this.cd()}}
 Y.rB.prototype={
 aG(){return new Y.HS(D.amN(0),H.a([],t.E),C.l)}}
 Y.HS.prototype={
-R(a3,a4){var s,r,q,p,o,n,m,l,k=this,j=null,i="Certinity",h="A definir",g="../assets/profile.png",f="TITLE",e="10-01-2022",d="I love trees and trees love me i guess but i am not sure about that.",c="I love trees and trees love me i guess but i am not sure about that. I love trees and trees love me i guess but i am not sure about that. I love trees and trees love me i guess but i am not sure about that.",b=M.dB(j,j,j,C.vM,4,j,j,j),a=U.Bs("../assets/logo_certinity.png",64),a0=L.cB(i,j,B.d3(j,25),j,j),a1=k.r,a2=C.EL.i(0,100)
+R(a3,a4){var s,r,q,p,o,n,m,l,k=this,j=null,i="Certinity",h="A definir",g="assets/profile.png",f="TITLE",e="10-01-2022",d="I love trees and trees love me i guess but i am not sure about that.",c="I love trees and trees love me i guess but i am not sure about that. I love trees and trees love me i guess but i am not sure about that. I love trees and trees love me i guess but i am not sure about that.",b=M.dB(j,j,j,C.vM,4,j,j,j),a=U.Bs("assets/logo_certinity.png",64),a0=L.cB(i,j,B.d3(j,25),j,j),a1=k.r,a2=C.EL.i(0,100)
 a2.toString
 s=C.a_.i(0,300)
 s.toString
@@ -34976,13 +34976,13 @@ s=t.u6
 r=D.yO(H.a([U.Fq("Our Solution :",C.ai,B.d3(C.j,50))],s),!1)
 q=k.c.T(a1).f
 p=k.c.T(a1).f
-q=N.jc(M.dB(j,T.dS(H.a([T.iu(H.a([L.cB("Schools",j,B.d3(C.j,40),j,j),U.Bs("../assets/education.png",60)],l),C.T,C.cW,C.N),T.lR(L.cB("Certinity is a web application for universities and awarding schools. It is a service that helps to certify diplomas. This can also apply to companies issuing professional certifications.",C.dm,B.rw(C.j,20),j,j),j,300)],l),C.bH,C.aW,C.N),j,C.vL,p.a.b/2.1,j,C.dI,q.a.a/4),C.aj)
+q=N.jc(M.dB(j,T.dS(H.a([T.iu(H.a([L.cB("Schools",j,B.d3(C.j,40),j,j),U.Bs("assets/education.png",60)],l),C.T,C.cW,C.N),T.lR(L.cB("Certinity is a web application for universities and awarding schools. It is a service that helps to certify diplomas. This can also apply to companies issuing professional certifications.",C.dm,B.rw(C.j,20),j,j),j,300)],l),C.bH,C.aW,C.N),j,C.vL,p.a.b/2.1,j,C.dI,q.a.a/4),C.aj)
 p=k.c.T(a1).f
 o=k.c.T(a1).f
-p=N.jc(M.dB(j,T.dS(H.a([T.iu(H.a([L.cB("Blockchain",j,B.d3(C.j,40),j,j),U.Bs("../assets/blockchain.png",60)],l),C.T,C.cW,C.N),T.lR(L.cB("Schools and universities can use it to store their diplomas in a blockchain-protected environment.Thus the diplomas are protected from loss and fraud. Their sustainability and security is assured, even if the school disappears later.",C.dm,B.rw(C.j,20),j,j),j,600)],l),C.bH,C.aW,C.N),j,C.vJ,o.a.b/2.1,j,C.dI,p.a.a/4),C.A8)
+p=N.jc(M.dB(j,T.dS(H.a([T.iu(H.a([L.cB("Blockchain",j,B.d3(C.j,40),j,j),U.Bs("assets/blockchain.png",60)],l),C.T,C.cW,C.N),T.lR(L.cB("Schools and universities can use it to store their diplomas in a blockchain-protected environment.Thus the diplomas are protected from loss and fraud. Their sustainability and security is assured, even if the school disappears later.",C.dm,B.rw(C.j,20),j,j),j,600)],l),C.bH,C.aW,C.N),j,C.vJ,o.a.b/2.1,j,C.dI,p.a.a/4),C.A8)
 o=k.c.T(a1).f
 a1=k.c.T(a1).f
-a2=M.dB(j,new T.db(C.cK,V.zg(T.Ob(T.dS(H.a([r,T.iu(H.a([T.iu(H.a([q,C.uF,p,C.uF,N.jc(M.dB(j,T.dS(H.a([T.iu(H.a([L.cB("Certified",j,B.d3(C.j,40),j,j),U.Bs("../assets/certified.png",60)],l),C.T,C.cW,C.N),T.lR(L.cB("Our goal is therefore to offer a platform both for schools to certify their diplomas, but also an interface for graduates to prove their skills to recruiters. In short, we seek to generally secure the veracity and authenticity of diplomas after they have been issued.",C.dm,B.rw(C.j,20),j,j),j,600)],l),C.bH,C.aW,C.N),j,C.vK,a1.a.b/2.1,j,C.dI,o.a.a/4),C.cI)],l),C.T,C.aV,C.N)],l),C.T,C.aW,C.N)],l),C.T,C.aW,C.N),j,j),C.cF,new X.cd(a2,C.q)),j),C.aQ,j,j,j,j,j)
+a2=M.dB(j,new T.db(C.cK,V.zg(T.Ob(T.dS(H.a([r,T.iu(H.a([T.iu(H.a([q,C.uF,p,C.uF,N.jc(M.dB(j,T.dS(H.a([T.iu(H.a([L.cB("Certified",j,B.d3(C.j,40),j,j),U.Bs("assets/certified.png",60)],l),C.T,C.cW,C.N),T.lR(L.cB("Our goal is therefore to offer a platform both for schools to certify their diplomas, but also an interface for graduates to prove their skills to recruiters. In short, we seek to generally secure the veracity and authenticity of diplomas after they have been issued.",C.dm,B.rw(C.j,20),j,j),j,600)],l),C.bH,C.aW,C.N),j,C.vK,a1.a.b/2.1,j,C.dI,o.a.a/4),C.cI)],l),C.T,C.aV,C.N)],l),C.T,C.aW,C.N)],l),C.T,C.aW,C.N),j,j),C.cF,new X.cd(a2,C.q)),j),C.aQ,j,j,j,j,j)
 o=K.j4(10)
 o=M.dB(j,new T.db(C.cK,V.zg(T.Ob(T.dS(H.a([D.yO(H.a([U.Fq("The Team :",C.ai,B.d3(C.j,50))],s),!1),T.iu(H.a([k.jg("Jeremy Naccache",h,g),k.jg("Vincent Douroux",h,g),k.jg("Lucas Goetz",h,g),k.jg("Solal Depardieu",h,g)],l),C.T,C.h1,C.N),T.iu(H.a([k.jg("Baptiste Godeau",h,g),k.jg("Pigal Romain",h,g),k.jg("Anthony Bellon",h,g)],l),C.T,C.aW,C.N)],l),C.T,C.h1,C.N),j,j),C.cF,new X.cd(o,C.q)),j),C.aQ,j,j,j,j,j)
 a1=K.j4(10)
