@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "f3c04762abfe452cc417bd9c1dbed171",
+  "assets/AssetManifest.json": "061064e0611dddea33aedd401be8a80e",
 "assets/assets/blockchain.png": "7e1d601b68c37c7631ef0632c500dd83",
 "assets/assets/certified.png": "e90a4d3f66c8c75a4196fa951ff68405",
 "assets/assets/Certinity-8.png": "0509932cf2647a9277f102a070985a7e",
@@ -15,10 +15,11 @@ const RESOURCES = {
 "assets/assets/linkedin.png": "0f7c2987daa9d71c78a7e99d6786a923",
 "assets/assets/logo_certinity.png": "f30e9fb24a4302bbc767ee7abdf92127",
 "assets/assets/profile.png": "055a91979264664a1ee12b9453610d82",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/FontManifest.json": "3ca64090b9da4a7c0a3988ea3cda93fc",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "3fc86435c39e1f1b2f3459a2178b362d",
+"assets/NOTICES": "8bd973e852e2b6f5c89bb037337b7be8",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/ionicons/fonts/Ionicons.ttf": "0cdf2a324d5c21f08c7f446476aa2ee3",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
@@ -27,9 +28,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "4d90dd98c7cacae148257c154fffaa59",
-"/": "4d90dd98c7cacae148257c154fffaa59",
-"main.dart.js": "709416899cbcb587634193a5e459c989",
+"index.html": "beca5d644e8165659528d273ed2c291e",
+"/": "beca5d644e8165659528d273ed2c291e",
+"main.dart.js": "928b4455d79dafda22aa0a6ab126d2f5",
 "manifest.json": "b604130f1686bbfc4b038dd0cb125e99",
 "version.json": "e7e6bbb28abebadb5a6bdbbf28224c2d"
 };
