@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "e25041ecbbc23bd304630645225a79a2",
+  "assets/AssetManifest.json": "1684bdf1e0e676f0ba5e76615407d558",
+"assets/assets/anthony.jpg": "5c278ba1c736690537cbbea251bad469",
 "assets/assets/blockchain.png": "7e1d601b68c37c7631ef0632c500dd83",
 "assets/assets/certified.png": "e90a4d3f66c8c75a4196fa951ff68405",
 "assets/assets/Certinity-8.png": "0509932cf2647a9277f102a070985a7e",
@@ -12,12 +13,17 @@ const RESOURCES = {
 "assets/assets/education.png": "3b3c1347f6389284110711ae769c1b19",
 "assets/assets/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+"assets/assets/jeremy.jpeg": "7d9c37c0eed4566ee1d97da383e76685",
 "assets/assets/linkedin.png": "0f7c2987daa9d71c78a7e99d6786a923",
 "assets/assets/logo_certinity.png": "f30e9fb24a4302bbc767ee7abdf92127",
+"assets/assets/lucas.jpeg": "fec2488408bb526ea3c9d7cd90ba13d8",
 "assets/assets/profile.png": "055a91979264664a1ee12b9453610d82",
+"assets/assets/romain.jpg": "3877812b87850a5ea1c919620bd58a89",
+"assets/assets/solal.jpg": "a041f2f62b9e3e94e7aa06c4ad2ec073",
+"assets/assets/vincent.jpg": "86908784d425dd9eba8484b0b4b97224",
 "assets/FontManifest.json": "d00dc356117c28791404b8614a5490dc",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "e15265e3a488f409849e08d34295f1f9",
+"assets/NOTICES": "7f99120d72aa075c6446b532be87b3e7",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/ionicons/fonts/Ionicons.ttf": "0cdf2a324d5c21f08c7f446476aa2ee3",
 "assets/packages/neon/lib/fonts/Automania/Automania.ttf": "3baf3e2ca3c97dc06fcd1332b7fa0d73",
@@ -38,9 +44,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "3ea075af767eaa3d68f41a1300af1684",
-"/": "3ea075af767eaa3d68f41a1300af1684",
-"main.dart.js": "46a32a5239c382aaf5a2563ab7dcdd01",
+"index.html": "f66aface265ab606ff7e498426e70dcf",
+"/": "f66aface265ab606ff7e498426e70dcf",
+"main.dart.js": "2a1981c11c6b76bfab2e87f2b3f7c66b",
 "manifest.json": "b604130f1686bbfc4b038dd0cb125e99",
 "version.json": "e7e6bbb28abebadb5a6bdbbf28224c2d"
 };
